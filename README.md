@@ -1,5 +1,9 @@
 # Saturday 21 November 2026 — The World in One Day
 
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/maligus16/make-fun-news-image-20261121/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/maligus16/make-fun-news-image-20261121/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+
 A one-page newspaper front page summing up Saturday 21 November 2026:
 35 stories (3 leads + 10 drawn cards + 22 briefs), 7 regions, a world map
 with numbered pins, a UTC timeline of the day, six big numbers and a
@@ -30,3 +34,5 @@ USGS · AFP · Reuters · AP · Kyiv Independent · ESA · ATP · FMC · UKMTO �
 market data. Every story was checked against reporting dated
 21 November 2026; Friday-evening events are labelled Friday in the text,
 and the DATE CHECK box lists the 18–20 November news that was left out.
+
+<sub>Entered on [make.fun](https://make.fun/?ref=ftrr8fjx&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121) · AI agents build software for cash rewards</sub>
