@@ -1,0 +1,406 @@
+{
+ "big_numbers": [
+  {
+   "label": "magnitude of the Peru quake (USGS)",
+   "num": "6.7"
+  },
+  {
+   "label": "Nasdaq’s Friday fall; S&P in correction",
+   "num": "−5.3%"
+  },
+  {
+   "label": "cost of the Iran war, Pentagon says",
+   "num": "$48.3bn"
+  },
+  {
+   "label": "people evacuated ahead of Akvan",
+   "num": "370,000"
+  },
+  {
+   "label": "hurt in the Kryvyi Rih double-tap",
+   "num": "42"
+  },
+  {
+   "label": "BepiColombo’s journey to Mercury",
+   "num": "8 yrs"
+  }
+ ],
+ "briefs": [
+  {
+   "n": 14,
+   "place": "Kyiv",
+   "region": "Europe",
+   "text": "Zelensky: Crimea bridge “will not stay” (Kyiv Ind.)"
+  },
+  {
+   "n": 15,
+   "place": "Washington",
+   "region": "Asia-Pacific",
+   "text": "Trump calls China talks a success (Korea Times)"
+  },
+  {
+   "n": 16,
+   "place": "Los Angeles",
+   "region": "Americas",
+   "text": "Jury convicts man who started Palisades Fire (AP)"
+  },
+  {
+   "n": 17,
+   "place": "Hormuz",
+   "region": "Middle East",
+   "text": "Tanker struck and ablaze north of Khasab (UKMTO)"
+  },
+  {
+   "n": 18,
+   "place": "Tallinn",
+   "region": "Europe",
+   "text": "Estonia to shut Russia border crossings 1 Dec"
+  },
+  {
+   "n": 19,
+   "place": "Brussels",
+   "region": "Europe",
+   "text": "EU adopts €1bn military aid for Ukraine (EU Council)"
+  },
+  {
+   "n": 20,
+   "place": "London",
+   "region": "Europe",
+   "text": "UK pledges 1,000+ drones for Ukraine, £260m"
+  },
+  {
+   "n": 21,
+   "place": "Paris",
+   "region": "Europe",
+   "text": "France seeks UN Security Council meeting on Kyiv"
+  },
+  {
+   "n": 22,
+   "place": "Buenos Aires",
+   "region": "Americas",
+   "text": "Senate votes 71–0 for disability law"
+  },
+  {
+   "n": 23,
+   "place": "Washington",
+   "region": "Americas",
+   "text": "Trump pardons Pete Rose posthumously"
+  },
+  {
+   "n": 24,
+   "place": "Washington",
+   "region": "Global",
+   "text": "US sanctions Comancheros, ’Ndrangheta"
+  },
+  {
+   "n": 25,
+   "place": "Washington",
+   "region": "Middle East",
+   "text": "Pentagon: Iran war cost hits $48.3bn"
+  },
+  {
+   "n": 26,
+   "place": "Cook Islands",
+   "region": "Oceania",
+   "text": "Cyclone Xavier gale warnings narrow"
+  },
+  {
+   "n": 27,
+   "place": "Port-au-Prince",
+   "region": "Americas",
+   "text": "Haitian police kill 34 gang members"
+  },
+  {
+   "n": 28,
+   "place": "Addis Ababa",
+   "region": "Africa",
+   "text": "Ethiopia wins ICAO Council seat (FMC)"
+  },
+  {
+   "n": 29,
+   "place": "Addis Ababa",
+   "region": "Africa",
+   "text": "COP32 goes to Ethiopia in Nov 2027"
+  },
+  {
+   "n": 30,
+   "place": "Gaza",
+   "region": "Middle East",
+   "text": "Ministry: child deaths pass 22,000"
+  },
+  {
+   "n": 31,
+   "place": "Mumbai",
+   "region": "Asia-Pacific",
+   "text": "Sensex rises 2.3%, bucking sell-off (Market data)"
+  },
+  {
+   "n": 32,
+   "place": "London",
+   "region": "Global",
+   "text": "Brent holds near $90 despite tanker attacks"
+  },
+  {
+   "n": 33,
+   "place": "Las Vegas",
+   "region": "Americas",
+   "text": "Verstappen faces double stewards’ inquiry"
+  },
+  {
+   "n": 34,
+   "place": "Addis Ababa",
+   "region": "Africa",
+   "text": "Abiy invites leaders to CPHIA 2026 (ENA)"
+  },
+  {
+   "n": 35,
+   "place": "Gaza",
+   "region": "Middle East",
+   "text": "Israeli drone strike kills one near Nuseirat (WAFA)"
+  }
+ ],
+ "cards": [
+  {
+   "art": "kryvyi",
+   "body": "Late Friday, missiles hit a restaurant car park, then drones hit rescuers. Two killed, 42 hurt, four children.",
+   "field": "WAR",
+   "headline": "Double-tap strike kills two in Kryvyi Rih",
+   "map": [
+    33.4,
+    47.9
+   ],
+   "n": 4,
+   "place": "KRYVYI RIH, UKRAINE",
+   "region": "Europe",
+   "source": "Kyiv Independent"
+  },
+  {
+   "art": "nato",
+   "body": "Rutte visits Poland after two Russian missiles and a drone came down on Friday. Warsaw calls it a provocation.",
+   "field": "SECURITY",
+   "headline": "NATO chief heads to Warsaw today",
+   "map": [
+    21.0,
+    52.2
+   ],
+   "n": 5,
+   "place": "WARSAW, POLAND",
+   "region": "Europe",
+   "source": "AP · Reuters"
+  },
+  {
+   "art": "iran",
+   "body": "“I am not rushing into any decision,” Trump says of new Iran strikes. Israel’s envoy warns it may “go it alone”.",
+   "field": "IRAN",
+   "headline": "Trump puts Iran call off to 2027",
+   "map": [
+    -77.0,
+    38.9
+   ],
+   "n": 6,
+   "place": "WASHINGTON",
+   "region": "Middle East",
+   "source": "Axios · NY Post"
+  },
+  {
+   "art": "bepi",
+   "body": "At 19:24 CET, BepiColombo fires its thrusters for 37 minutes to enter Mercury orbit after an eight-year trip.",
+   "field": "SPACE",
+   "headline": "Mercury capture tonight",
+   "map": null,
+   "n": 7,
+   "place": "MERCURY",
+   "region": "Global",
+   "source": "ESA · Sky & Telescope"
+  },
+  {
+   "art": "f1",
+   "body": "George Russell tops final practice at 1:34.041; qualifying runs at 04:00 UTC. Antonelli leads the title by 111 points.",
+   "field": "FORMULA 1",
+   "headline": "Russell fastest before qualifying",
+   "map": [
+    -115.1,
+    36.2
+   ],
+   "n": 8,
+   "place": "LAS VEGAS",
+   "region": "Americas",
+   "source": "RacingNews365"
+  },
+  {
+   "art": "atp",
+   "body": "Alcaraz faces Shelton and Zverev meets Medvedev today. Alcaraz beat Cobolli 6-4, 6-1 on Friday, a 12th straight win.",
+   "field": "TENNIS",
+   "headline": "Semifinals set in Turin",
+   "map": [
+    7.7,
+    45.1
+   ],
+   "n": 9,
+   "place": "TURIN, ITALY",
+   "region": "Europe",
+   "source": "Sportsnet · ATP"
+  },
+  {
+   "art": "denmark",
+   "body": "Copenhagen said on Friday it is expelling Moscow’s defence attaché over a plot to kill rapper Kyivstoner.",
+   "field": "ESPIONAGE",
+   "headline": "Denmark expels Russian attaché",
+   "map": [
+    12.6,
+    55.7
+   ],
+   "n": 10,
+   "place": "COPENHAGEN",
+   "region": "Europe",
+   "source": "Reuters · Al Jazeera"
+  },
+  {
+   "art": "houthi",
+   "body": "The coalition struck Hodeidah after downing three Houthi missiles over Riyadh. The Houthis say 41 were killed.",
+   "field": "CONFLICT",
+   "headline": "Coalition hits Hodeidah port",
+   "map": [
+    46.7,
+    24.7
+   ],
+   "n": 11,
+   "place": "RIYADH · HODEIDAH",
+   "region": "Middle East",
+   "source": "MEE · The National"
+  },
+  {
+   "art": "gold",
+   "body": "Gold fell almost 4% on Friday, a 9.4% weekly loss. Bitcoin is down about 24% over the month.",
+   "field": "MARKETS",
+   "headline": "Gold sinks to a 14-month low",
+   "map": [
+    -0.1,
+    51.5
+   ],
+   "n": 12,
+   "place": "LONDON",
+   "region": "Global",
+   "source": "Market data"
+  },
+  {
+   "art": "akvan",
+   "body": "The cyclone weakened after Friday’s landfall near Gopalpur. 370,000 were evacuated; Patrapur saw 209 mm of rain.",
+   "field": "WEATHER",
+   "headline": "Akvan’s rains linger on",
+   "map": [
+    84.9,
+    19.3
+   ],
+   "n": 13,
+   "place": "ODISHA, INDIA",
+   "region": "Asia-Pacific",
+   "source": "IMD · Hindu BusinessLine"
+  }
+ ],
+ "date_check": "Left out as other days’ news: Akvan’s landfall, the Poland missiles, Kyiv’s bridges, the UK–EU deal, the cancer-pill results (Fri 20 Nov); the Myanmar ruling, Shenzhen summit, Fiona’s death, GTA VI (Thu 19 Nov); Yongbyon (Wed 18 Nov). Not yet known: F1 qualifying, the BepiColombo burn, the ATP semifinals, any COP31 deal.",
+ "date_label": "Saturday 21 November 2026",
+ "footer": "Every story here happened, or was first reported, on Saturday 21 November 2026. Sources: USGS · AFP · Reuters · AP · Kyiv Independent · ESA · ATP · FMC · UKMTO · market data. Original drawings.",
+ "leads": [
+  {
+   "art": "quake",
+   "body": "A magnitude 6.7 earthquake struck central Peru at 00:09 UTC, 30 km from Junín and 129 km deep. Tremors shook the capital; no deaths or serious damage were reported.",
+   "field": "QUAKE",
+   "headline": "M6.7 quake shakes Peru, felt in Lima",
+   "map": [
+    -75.98,
+    -10.85
+   ],
+   "n": 1,
+   "place": "JUNÍN, PERU",
+   "region": "Americas",
+   "source": "USGS · IGP · AFP"
+  },
+  {
+   "art": "stocks",
+   "body": "The S&P 500 fell 3.7% on Friday into correction territory and the Nasdaq lost 5.3% as Nvidia sank 14%. It is Wall Street’s worst week since Covid.",
+   "field": "MARKETS",
+   "headline": "Wall Street slides into correction",
+   "map": [
+    -74.0,
+    40.7
+   ],
+   "n": 2,
+   "place": "NEW YORK",
+   "region": "Americas",
+   "source": "Reuters · AP · Guardian"
+  },
+  {
+   "art": "cop31",
+   "body": "Climate talks slipped past Friday’s deadline with no agreement. A third draft is due on Saturday morning; the text drops fossil fuels and the $120bn aid figure.",
+   "field": "CLIMATE",
+   "headline": "COP31 runs into overtime, no deal",
+   "map": [
+    30.7,
+    36.9
+   ],
+   "n": 3,
+   "place": "ANTALYA, TÜRKIYE",
+   "region": "Global",
+   "source": "AP · UN News"
+  }
+ ],
+ "masthead_note": "35 STORIES · 7 REGIONS · EVERY ONE DATED SATURDAY 21 NOVEMBER 2026",
+ "regions": [
+  {
+   "color": "#1d4e89",
+   "name": "Europe"
+  },
+  {
+   "color": "#8c2f2f",
+   "name": "Americas"
+  },
+  {
+   "color": "#b3541e",
+   "name": "Asia-Pacific"
+  },
+  {
+   "color": "#7a5c00",
+   "name": "Middle East"
+  },
+  {
+   "color": "#2e6b34",
+   "name": "Africa"
+  },
+  {
+   "color": "#5b4a8a",
+   "name": "Oceania"
+  },
+  {
+   "color": "#444444",
+   "name": "Global"
+  }
+ ],
+ "subhead": "M6.7 quake shakes Peru · Wall Street slides into correction · COP31 runs into overtime · BepiColombo reaches Mercury",
+ "timeline": [
+  {
+   "utc": "00:09",
+   "text": "Peru quake"
+  },
+  {
+   "utc": "01:27",
+   "text": "Trump on Korea talks"
+  },
+  {
+   "utc": "01:34",
+   "text": "Russell tops F1 practice"
+  },
+  {
+   "utc": "04:00",
+   "text": "F1 qualifying"
+  },
+  {
+   "utc": "11:00",
+   "text": "ATP semifinals"
+  },
+  {
+   "utc": "18:24",
+   "text": "BepiColombo burn"
+  }
+ ]
+}
